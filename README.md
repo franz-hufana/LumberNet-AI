@@ -13,9 +13,11 @@ Real-time image-based detection
 Lightweight deep learning models (MobileNetV2 & MobileNetV3)
 
 ## Model Details
-Pretrained MobileNetV2 and MobileNetV3
+Used Pretrained MobileNetV2 and MobileNetV3 as feature extractor
 
 Custom Classifier head for wood classification
+
+Used to Squeeze-and-Excitation Mechanism to MobileNetV2
 
 Input size: 224 x 224
 
