@@ -26,7 +26,9 @@ Trained on 5308 wood defect images (raw dataset without augmentation) using Tran
 
 
 ## System Workflow
-1. User inputs an image through the GUI  
+1. User inputs or drags an image through the GUI
 2. Image is preprocessed (resized, normalized)  
 3. Model predicts defect classification  
-4. Result is displayed to the user  
+4. Result is displayed to the user:
+   - Confidence in percentage
+   - Top-k to see what other defects are found and ranks them from highest to lowest
