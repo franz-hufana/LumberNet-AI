@@ -7,6 +7,7 @@ Automated classification of wood defects:
   - Fuzz
   - Knotholes
   - No Defect
+
 Graphical User Interface (GUI) for user interaction
 Real-time image-based detection
 Lightweight deep learning models (MobileNetV2 & MobileNetV3)
