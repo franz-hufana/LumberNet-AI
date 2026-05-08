@@ -14,9 +14,14 @@ Lightweight deep learning models (MobileNetV2 & MobileNetV3)
 
 ## Model Details
 Pretrained MobileNetV2 and MobileNetV3
+
 Custom Classifier head for wood classification
+
 Input size: 224 x 224
-Trained on 5308 wood defect images (raw dataset without augmentation)
+
+Trained on 5308 wood defect images (raw dataset without augmentation) using Transfer learning
+
+
 
 ## System Workflow
 1. User inputs an image through the GUI  
