@@ -15,7 +15,7 @@ Custom Classifier head for wood classification:
   - Cracks
   - Fuzz
   - Knotholes
-  - No Defect
+  - Natural Patterns (No Defects surface)
 
 Used to Squeeze-and-Excitation Mechanism to MobileNetV2
 
