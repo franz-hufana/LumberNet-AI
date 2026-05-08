@@ -17,7 +17,7 @@ Custom Classifier head for wood classification:
   - Knotholes
   - Natural Patterns (No Defects surface)
 
-Used to Squeeze-and-Excitation Mechanism to MobileNetV2
+Used Squeeze-and-Excitation (SE) Mechanism to MobileNetV2 since MobileNetV3 has inbuilt SE
 
 Input size: 224 x 224
 
